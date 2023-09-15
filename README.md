@@ -1,3 +1,3 @@
 ## This is to practice Git 
-# Practice makes Perfect :triumph:
+# Practice makes Perfect  `:triumph:`
 
